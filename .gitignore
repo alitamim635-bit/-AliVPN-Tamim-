@@ -1,0 +1,19 @@
+
+# Android
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# Secrets and credentials
+.env
+.env.*
+*.jks
+*.keystore
+secrets/
+local.properties
+
+# IDE
+.vscode/
