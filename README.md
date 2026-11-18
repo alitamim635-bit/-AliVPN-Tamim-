@@ -1,36 +1,30 @@
-👑 AliVPN Tamim
+# AliVPN Tamim
 
-A Modern Android VPN Application
+A modern Android VPN application developed by Ali Tamim.
 
-Developed by Ali Tamim
-
-🚀 About
-
-AliVPN Tamim is an Android VPN application designed with a premium black-and-gold interface and simple user experience.
-
-✨ Features
+## Features
 
 - Automatic best-server connection
 - Manual country and server selection
+- Persian and English interface
 - WireGuard support
 - V2Ray support
-- Persian and English languages
 - Free and VIP subscription plans
-- Secure account login
-- User and server management
+- Secure user authentication
+- Server and user management
 
-🛠️ Platform
+## Platform
 
-- Android
+Android
 
-👨‍💻 Developer
+## Developer
 
 Ali Tamim
 
-📌 Project Status
+## Project Status
 
-Development in progress.
+Development in Progress
 
-🔐 Security
+## Security
 
-Server credentials, private keys, API tokens, and user information must never be committed to this public repository.
+Never upload passwords, private keys, API tokens, server credentials, or user data to this repository.
